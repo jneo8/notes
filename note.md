@@ -84,6 +84,75 @@
 
 
 
+# Romeo Kienzler
+
+## Realtime-Cognitive IoT using Deep Learning and Online Learning
+
+
+- data parallelism
+- intra-model parallelism
+
+
+- Apache Spark
+- TensorflowSPark
+- Caffe on Spark
+
+
+- CS229
+
+
+# 宋政隆
+
+## 深度學習環境建置與模型訓練實務
+
+
+- GKE
+- ETcd
+
+- 解決多GPU, 多機器的問題
+- salt cloud
+
+
+# 莊永裕
+## Deep Learning for Computational Photography
+
+- photography
+
+    - camera
+    - scene
+    - photographer
+
+    - 處理各種不完美
+    - `調整照片的成像`
+
+- Demosaicking
+
+- image signal processing
+
+    - supervised
+    - unsupervised
+
+
+# 陳彥呈
+## 影音大數據商機挖掘
+
+- Viscovery = Video Discovery
+- 好的內容，不僅限於原生內容, 好的聚合與推薦同樣有價值
+- 好的機會好的內容有機會存活在googel & facebook 的規則之外
+- 高維度的詛咒
+    - 變數量往往遠大於樣本量
+    - 機器學習無解
+    solution:
+        - 各種角度的明星臉都要辨識
+        - 搭配爬蟲
+- 抽象性概念例如情緒難以辨別(主觀因素)
+- 需要建立反饋機制
+
+
+
+
+
+
 
 
 
