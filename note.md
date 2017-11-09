@@ -47,8 +47,46 @@
         - force group & unforce group
 
 - The Lesson
- - major the problem is work
- - Optimization in the real world is complex
+    - major the problem is work
+    - Optimization in the real world is complex
+
+# 邱中鎮
+## Recent advances of deep learning in Google
+
+- Image classification
+
+- Start with Alex-net
+- ResNet - Deep Residual Learn
+    - 解決問題:
+        - 層數越深, 效果不一定越好
+
+- Learning the architecture
+    - learn to learn
+
+- Dealing with squentatial data 
+    - RNN
+    - LSTM
+    - sequence to sequence with attention
+    - Neural machine translation
+    - Attention is all you need
+
+- hearlthcare
+
+- Robotics - learning from demonstration
+
+- Art
+
+- Tensorflow
+
+- Eager Execution
+
+- 殺雞焉用牛刀，某些場景不需要deep learning.
+
+
+
+
+
+
 
 
 
