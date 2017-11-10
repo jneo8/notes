@@ -183,6 +183,61 @@
 - remove rollouts, handcarfted features
 
 
+# 吳毅成
+## CGI and CGI
+
+- First CGI
+    - `Computer Games and Intelligenci`
+    - 簡稱CGI lab
+    - 西洋棋之餘AI，相當於果蠅之餘基因
+    - 六子棋
+    - CGI-2048
+    - 象棋, Chimo
+    
+    - ways
+        - way 1
+            - Alpha-beta search
+            - Monte-Carlo tree search(MCTS)
+        - way 2
+            - Machine learning
+            - Learning network
+    - Reinforcement learning(RL), 強化學習
+        - Agent -> environment -> Agent -> environment
+        - Moto-Carlo learning
+            - Unbiased, but high variance
+            - 類似統計的概念, 看哪個選項比較好
+        - Temporal-Difference(TD) learning
+            - Biased, but lower varience
+    
+    - 2048
+        - TD learning
+        - 對每個盤面評估分數
+        - CNN not work
+        - Need to use value function approximator
+        - 遊戲的規則可以改變, model 會自動學習
+        - N-Tuple Network
+        - Multi-Stage TD learning 
+    
+    - Connect6
+        - TD learning
+    - 象棋
+        - Comparison turning
+        - n-tuple network are used too
+
+- Second CGI
+    - `CGI Go Intelligence`
+    - value notwork
+    - DCNN
+    - one GPU and six CPU
+    
+
+
+
+
+
+
+
+
 
 
 
