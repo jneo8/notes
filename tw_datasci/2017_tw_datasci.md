@@ -297,6 +297,62 @@
         - work with system
     - When not to use ML as first choice?
     - Your favorite ML toolbox(掌握自己的coding skill)
+
+# 李宏毅
+## GAN
+
+- when do i need generation
+    - f: x -> y
+    - type of machine learning 
+        - regression
+        - classification
+        - structured learning / prediction
+            - `machione has to know to gen structured object`
+
+- generation
+    - basic idea of GAN
+        - generator(NN)
+            - input vector, output matrix
+            - Student
+        - Discriminator
+            - input matrix, output scalar(larger value means real)
+            - teacher
+    
+    - Algorithm
+        - init generator & Discriminator 
+        - in each training iteration
+            - learn D
+            - learn G
+
+    - Gen image
+    - Gen 唐詩
+
+- conditinoal generation
+    - 根據指示來產生
+    - text to image
+    - Two type of Discriminator
+        - input two things: 
+            - text(input of generator)
+            - image(output of generator)
+    - Chat-bot with GAN
+    - Speech Enhancement
+
+- unsupervides conditinol generation
+    - Cycle GAN
+        - Use two generator
+        - positive to nagative (NLP)
+    - Disco GAN(same to Cycle GAN)
+
+    - Abstractive Summarization
+        - Seq2Seq * 2
+            - 長文 -> 短文 -> 原來的長文
+        - 1 * Discriminator
+            - 判斷摘要是否人寫的句子
+
+- Reinforcement learning 
+
+
+
     
 
 
