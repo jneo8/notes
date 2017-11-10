@@ -1,3 +1,7 @@
+# Day 1
+
+<br>
+
 # 簡立峰
 
 - 最好的時代最壞的時代
@@ -147,6 +151,36 @@
         - 搭配爬蟲
 - 抽象性概念例如情緒難以辨別(主觀因素)
 - 需要建立反饋機制
+
+
+---
+
+# Day2 
+
+<br>
+
+# 黃士傑
+## AlphaGo
+
+- Solve intelligence. Use it to make the world a better place.
+
+- Demis Hassabls 
+
+
+- 人類下圍棋的直覺，策略網路(Policy Network)
+- Value network
+    - 價值網路
+    - 判斷形勢
+    - 左右互搏的自我學習
+    - 克服overfitting
+
+- TPU
+- Dual Network(20-block ResNet)
+- 改進training pipeline
+
+- ### AlphaGoZero
+- RL training pipeline - continuous pipeline
+- remove rollouts, handcarfted features
 
 
 
