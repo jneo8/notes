@@ -229,6 +229,84 @@
     - value notwork
     - DCNN
     - one GPU and six CPU
+
+
+# 林軒田
+## The Interplay of Big Data, Machine Learning, and Artificial Intelligence
+
+- ### What is `Artificial intelligence`?
+
+- ### What is `Machine learning`?
+
+- ### What is `Big data` ?
+
+- 導航, Bigger data towards better AI 
+    - 預測路徑的方式
+        - best path by shortest distance
+        - best path by currect traffic
+        - best path by predicted travel time.
+            - 預測抵達的time
+                - 需要多樣性的資料
+
+- From data to ML
+    - Academia
+        - Many acasemic projects based on embarassingly small data.
+        - ML not specific to bug data: small-data analysis also important 
+
+    - Industy
+        - System much more important than model
+        - Need big help from domain knowledge
+        - Proper procedure very important
+
+- From ml to ai
+    - Bottom-up from ml to ai: ml tech given, what ai can do it
+    - `Dream your own target` -- yes, that was me, as ML researcher.
+
+    industy:
+        - Top-down approach, what mt tech to use?
+        - Resource constraints very important
+        - A black plum is as sweet as a white: Any useful model is good
+
+- From bigdata to ai
+    - why not?
+    - equally vaable route: big data -> human learn -> ai
+    - Statistical analysis: without significance test can be useful
+
+- AI 在意的是菜好不好吃
+    - 最後好不好用
+
+- Has big data made ai easier?
+    - possibl,  but `easier than what?`
+    - 設定有用的目標, 適當的難度, 比較的對象
+
+- ML must learn to make ai easier  
+    - 每年都在改變
+    - 2016
+        - **simple model** (important)
+        - feature processing
+        - complexity control
+        - model selection
+    - 2017
+        - simple model +
+        - feature processing (based on DL)
+        - complexity control ++
+        - model selection (properly and systematically)
+
+- 雜項
+    - System is important
+        - work with system
+    - When not to use ML as first choice?
+    - Your favorite ML toolbox(掌握自己的coding skill)
+    
+
+
+
+
+
+
+
+    
+
     
 
 
