@@ -352,6 +352,27 @@
 - Reinforcement learning 
 
 
+# 陳縕儂
+## 深度學習之智慧型對話機器人 Deep Learning for Intelligent Conversational Bots
+
+- intelligent assistant
+    - Why we need
+        - ironman's home
+    - Dialogue System, 對話系統
+    
+    - App -> Bot
+        - A bot is responsible for a `single-domain`, similar to an app.
+        - GUI vs CUI(Conversational UI)
+
+    - Task-Oriented, Chit-Chat
+        - 發展不同
+        - 架構不同
+
+- paper, Task-oriented Dialogue System, Young, 2000 
+    - Rule based Management
+        - state tracking
+
+
 
     
 
